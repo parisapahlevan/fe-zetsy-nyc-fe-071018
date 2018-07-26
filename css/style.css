@@ -11,10 +11,16 @@ body {
 }
 
 .wrapper {
-	width: 960px;
+	width: 90%;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	
 }
 
 /* Write all remaining styles here */
+img { display: block;
+    margin:0 auto;
+    width: 90%;
+}
+
+  
